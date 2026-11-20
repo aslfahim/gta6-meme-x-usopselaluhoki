@@ -1,3 +1,17 @@
-# GTA 6 Meme — The Price Tag (@usopselaluhoki)
+# gta6-meme-x-usopselaluhoki
 
-A split-scene meme: on the left, a giant price tag reading "GRAND THEFT AUTO VI — $100" hangs over an empty wallet labelled "MY WALLET", complete with a tear drop and moths flying out; on the right, the make.fun ghost appears large and smug, fanning a thick stack of cash under a sign reading "EARNED IN ONE make.fun BOUNTY". The bottom caption says it all: "THE GAME COSTS $100. THE GHOST EARNED IT BACK."
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/aslfahim/gta6-meme-x-usopselaluhoki/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/aslfahim/gta6-meme-x-usopselaluhoki/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for make.fun's "Post a GTA 6 meme on X" bounty by @usopselaluhoki: a pastel beach in the calm morning, lifeguard tower behind, the make.fun ghost standing large on the sand at the right. Top caption: "THINGS I GOT BEFORE GTA 6:". Bottom caption: "A MAKE.FUN PAYDAY". The meme is posted on X; POST.json names that post, and the program in main.ts hands POST.json to the gate by copying it into the output directory.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=133qnwc2&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
